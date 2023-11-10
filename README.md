@@ -1,6 +1,6 @@
 # MathematicalGraphsForQuestionnaireTesting
 
-The R-Scripts (version 4.0.3, https://cran.r-project.org/) provided supplement the paper draft "Using Mathematical Graphs for Questionnaire Testing in Large-Scale Surveys" by K. Stark (katharina.stark@lifbi.de) and S. Zinn (szinn@diw.de). LNK: https://www.diw.de/documents/publikationen/73/diw_01.c.818369.de/diw_sp1135.pdf
+The R-Scripts (version 4.0.3, https://cran.r-project.org/) provided supplement the paper draft "Using Mathematical Graphs for Questionnaire Testing in Large-Scale Surveys" by K. Stark (katharina.stark@lifbi.de) and S. Zinn (szinn@diw.de). LINK: https://www.diw.de/documents/publikationen/73/diw_01.c.818369.de/diw_sp1135.pdf
 
 This paper introduces a flexible approach to test electronic questionnaires in different aspects by representing questionnaires as mathematical graphs. 
 
